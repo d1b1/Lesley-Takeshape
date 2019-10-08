@@ -1,0 +1,12 @@
+templatePath: src/templates
+staticPath: static 
+buildPath: build
+
+routes:
+  homepage:
+    path: /
+    template: pages/index.html
+
+  homepage2:
+    path: /test
+    template: pages/index.html
